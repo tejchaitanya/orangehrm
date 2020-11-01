@@ -1,0 +1,6 @@
+orangehrm\pages\LoginPage.class
+orangehrm\pages\DashBoard.class
+orangehrm\pages\ViewSystemUsers.class
+orangehrm\tests\OrangeHrmTest.class
+orangehrm\pages\SaveSystemUserPage.class
+orangehrm\browser\Browser.class
